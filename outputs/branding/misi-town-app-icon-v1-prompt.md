@@ -1,0 +1,10 @@
+# 谜思小镇图标 v1
+
+使用内置 image_gen 生成。参考现有封面赤狐侦探，保留棕色格纹帽、青绿领结和放大镜。图片为设计稿，尚未替换应用图标配置。
+
+## 完整生成提示词
+
+Use case: logo-brand / illustrated mobile game app icon.
+Create ONE finished square 1024x1024 full-bleed game icon for the Chinese animal-town detective logic puzzle game. Reference image is an existing cover + map: use ONLY the orange FOX DETECTIVE from the LEFT cover as exact character identity and the cozy sunny illustrated visual style, not the two-panel layout. Preserve fox orange fur, creamy white cheek ruff and muzzle, dark ear tips, brown plaid deerstalker, teal neck bow, brown detective coat and round brass/dark-rim magnifying glass. It is a fox, NOT a cat or dog.
+Composition: an extremely appealing, friendly, curious FOX DETECTIVE oversized head and shoulder portrait filling roughly the upper 75 percent. Large expressive eyes, one eye playfully enlarged by the magnifying glass held to face, warm confident smile. Ears and hat recognizable, keep important content safely within 8% edges. Lower foreground has a bold highly readable four-character Chinese title on a softly shaped cream parchment sign, EXACT TEXT: “谜思小镇”. Use a single line of four large balanced chunky hand-lettered Chinese characters, dark warm brown for 谜思 and deep teal for 小镇, clear cream surround, strong contrast. No other text, numbers, slogans, watermarks or letters.
+Background: sunny sky blue with warm golden daylight, just two simplified terracotta roof town silhouettes and a restrained mint green 4x4 deduction grid motif behind a shoulder with one small check mark, softly subordinate. Fox face, magnifying glass and title must dominate thumbnail reading. Cheerful, bright, sunlit, charming premium painted cartoon illustration, clean confident shapes, soft painterly fur, no photorealism, no gloomy crime mood, no dense scenic clutter, no additional characters, no app-store mockup, no phone frame. FULL square opaque art extending to corners, no baked rounded corners, no outside margin. This should be distinctive branded app art matching the provided existing protagonist, polished production quality.

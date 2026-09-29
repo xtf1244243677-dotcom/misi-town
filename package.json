@@ -1,0 +1,10 @@
+{
+  "name": "misi-town",
+  "version": "0.1.0",
+  "description": "谜思小镇：动物小镇案件逻辑推理游戏原型",
+  "private": true,
+  "creator": {
+    "version": "3.8.8"
+  },
+  "uuid": "3dc051ab-5f15-4cda-a28f-afb3656d2d26"
+}
